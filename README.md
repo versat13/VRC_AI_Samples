@@ -1,6 +1,6 @@
 # 🎨 VRChat AI Gallery
 
-VRChatで撮影した写真をAIで加工したもの
+VRChatで撮影した写真をAIで加工したもの（剽窃）
 
 ## 📑 Menu
 - [作品 1-5](List1-5.md)
