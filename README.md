@@ -1,4 +1,4 @@
-# 🎨 VRC_AI_Samples
+# 🎨 VRChat AI Gallery
 
 VRChatで撮影した写真をAIで加工したもの
 
