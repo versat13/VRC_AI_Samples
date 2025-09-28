@@ -1,6 +1,7 @@
 # 🎨 VRChat AI Gallery
 
 AIで加工（剽窃）したVRChatの写真
+ご自由にご活用ください。
 
 ## 📑 Menu
 - [作例 1-5](List1-5.md)
