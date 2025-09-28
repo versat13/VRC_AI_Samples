@@ -9,9 +9,7 @@ AIで加工（剽窃）したVRChatの写真
 
 ## その他
 
-プロンプト自体もAIに作成させてCopilot、Gemini、ChatGPTの無料枠で出力しています  
-また有用な参考サイトは以下に追加していきます  
-https://github.com/PicoTrex/Awesome-Nano-Banana-images
+プロンプト自体をAIで出力し、Copilot、Gemini、ChatGPTの無料枠で生成しています  
 
 ## 謝辞
 
