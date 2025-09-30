@@ -40,3 +40,6 @@
     <td><img src="images/CharacterSheets/設定S2b.jpg" width="250"></td>
   </tr>
 </table>
+
+
+*こういった推論はGeminiが得意のようだが、それでも細部が適当であるためこれらを元に生成してもうまく行かないことが多い
