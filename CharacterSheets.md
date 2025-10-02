@@ -41,11 +41,25 @@
   </tr>
 </table>
 
-<!-- Sora2テスト -->
-[▶️ test1.mp4](images/Sora2/test1.mp4)  
-[▶️ test2.mp4](images/Sora2/test2.mp4)  
-[▶️ test3.mp4](images/Sora2/test3.mp4)
-
+<table>
+  <tr>
+    <td>
+      <a href="images/Sora2/test3.mp4">
+        <img src="images/Sora2/thumb1.png" width="250">
+      </a>
+    </td>
+    <td>
+      <a href="images/Sora2/test2.mp4">
+        <img src="images/Sora2/thumb2.png" width="250">
+      </a>
+    </td>
+    <td>
+      <a href="images/Sora2/test1.mp4">
+        <img src="images/Sora2/thumb3.png" width="250">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 *こういった推論はGeminiが（比較的）精度が高く見えるものの、それでも入力の質が低いと細部の矛盾が生じるためかこれらを元に生成しようとしても破綻することが多い
