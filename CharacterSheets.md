@@ -47,5 +47,7 @@
 
 
 
-###Sora2雑
-[![Sora2雑テスト動画](images\Sora2\Sora2zatu.jpg)](https://www.youtube.com/shorts/uvOcBqspuwc)
+###Sora2雑テスト
+<a href="https://www.youtube.com/shorts/uvOcBqspuwc" target="_blank">
+  <img src="https://github.com/user-attachments/assets/6abb70bc-e4b9-40eb-9a89-724e80f34e78" alt="Sora2zatu" height="400">
+</a>
