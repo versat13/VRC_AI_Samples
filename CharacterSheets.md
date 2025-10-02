@@ -41,4 +41,12 @@
   </tr>
 </table>
 
+
+
 *こういった推論はGeminiが（比較的）精度が高く見えるものの、それでも入力の質が低いと細部の矛盾が生じるためかこれらを元に生成しようとしても破綻することが多い
+
+
+
+###Sora2雑
+[![サービス紹介動画](images\Sora2\Sora2zatu.jpg)]([[https://youtu.be/5aKI900iGVo?t=1336](https://www.youtube.com/shorts/uvOcBqspuwc)](https://www.youtube.com/shorts/uvOcBqspuwc))
+
