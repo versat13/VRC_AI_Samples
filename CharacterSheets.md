@@ -48,5 +48,4 @@
 
 
 ###Sora2雑
-[![サービス紹介動画](images\Sora2\Sora2zatu.jpg)]([[https://youtu.be/5aKI900iGVo?t=1336](https://www.youtube.com/shorts/uvOcBqspuwc)](https://www.youtube.com/shorts/uvOcBqspuwc))
-
+[![Sora2雑テスト動画](images\Sora2\Sora2zatu.jpg)](https://www.youtube.com/shorts/uvOcBqspuwc)
