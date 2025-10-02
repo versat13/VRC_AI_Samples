@@ -1,12 +1,3 @@
-<!-- notP 系 -->
-<table>
-  <tr>
-    <td><img src="images/CharacterSheets/notP001.jpg" width="250"></td>
-    <td><img src="images/CharacterSheets/notP002.jpg" width="250"></td>
-    <td><img src="images/CharacterSheets/notP003.jpg" width="250"></td>
-  </tr>
-</table>
-
 <!-- 設定B 系 -->
 <table>
   <tr>
@@ -38,6 +29,24 @@
   <tr>
     <td><img src="images/CharacterSheets/設定S2.jpg" width="250"></td>
     <td><img src="images/CharacterSheets/設定S2b.jpg" width="250"></td>
+  </tr>
+</table>
+
+<!-- notP 系 -->
+<table>
+  <tr>
+    <td><img src="images/CharacterSheets/notP001.jpg" width="250"></td>
+    <td><img src="images/CharacterSheets/notP002.jpg" width="250"></td>
+    <td><img src="images/CharacterSheets/notP003.jpg" width="250"></td>
+  </tr>
+</table>
+
+<!-- Sora2テスト -->
+<table>
+  <tr>
+    <td><img src="images/Sora2/test3.mp4" width="250"></td>
+    <td><img src="images/Sora2/test2.mp4" width="250"></td>
+    <td><img src="images/Sora2/test1.mp4" width="250"></td>
   </tr>
 </table>
 
