@@ -44,9 +44,15 @@
 <!-- Sora2テスト -->
 <table>
   <tr>
-    <td><img src="images/Sora2/test3.mp4" width="250"></td>
-    <td><img src="images/Sora2/test2.mp4" width="250"></td>
-    <td><img src="images/Sora2/test1.mp4" width="250"></td>
+    <td>
+      <video src="images/Sora2/test3.mp4" width="250" controls></video>
+    </td>
+    <td>
+      <video src="images/Sora2/test2.mp4" width="250" controls></video>
+    </td>
+    <td>
+      <video src="images/Sora2/test1.mp4" width="250" controls></video>
+    </td>
   </tr>
 </table>
 
